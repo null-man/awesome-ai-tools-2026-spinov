@@ -121,6 +121,9 @@
 - [Synthesia](https://synthesia.io) — AI video generation for business
 - [Luma Dream Machine](https://lumalabs.ai) — Text and image to video
 - [GrokVideo Studio](https://grokvideogenerator.dev) — Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 ## Audio & Speech
 
